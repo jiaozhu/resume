@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 赵伟杰个人简历
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:hello@awk.net.cn
+  text: hello@awk.net.cn
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://jiaozhu.net
+  text: https://jiaozhu.net
 ---
 
-# Wode **Ni**
+# 赵伟杰
 
 <!--
 include contact information from the front matter
